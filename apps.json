@@ -1,6 +1,7 @@
 {
-  "name": "Ma Source Perso",
-  "identifier": "com.monnom.source",
+  "name": "Anki Source",
+  "identifier": "com.vavafisud.anki",
+  "sourceURL": "https://github.com/VavaFisud/altstore-anki-flashcard-source/raw/main/apps.json",
   "apps": [
     {
       "name": "AnkiMobile Flashcards",
@@ -8,11 +9,11 @@
       "developerName": "Anki",
       "version": "24.04",
       "versionDate": "2024-05-01",
-      "downloadURL": "METTRE_LE_LIEN_DIRECT_DE_L_IPA_ICI",
+      "downloadURL": "https://github.com/VavaFisud/altstore-anki-flashcard-source/raw/main/AnkiMobile%20Flashcards%20(v24.04%20v240400.7%20Univ%2064bit%20os145%20ok17)-user_hidden.bfi2.ipa",
       "localizedDescription": "Flashcards app pour iOS.",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Anki_icon.svg/1200px-Anki_icon.svg.png",
       "tintColor": "000000",
-      "size": 12345678
+      "size": 12551315
     }
   ]
 }
