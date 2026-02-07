@@ -1,0 +1,18 @@
+{
+  "name": "Ma Source Perso",
+  "identifier": "com.monnom.source",
+  "apps": [
+    {
+      "name": "AnkiMobile Flashcards",
+      "bundleIdentifier": "net.ankimobile.anki",
+      "developerName": "Anki",
+      "version": "24.04",
+      "versionDate": "2024-05-01",
+      "downloadURL": "METTRE_LE_LIEN_DIRECT_DE_L_IPA_ICI",
+      "localizedDescription": "Flashcards app pour iOS.",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Anki_icon.svg/1200px-Anki_icon.svg.png",
+      "tintColor": "000000",
+      "size": 12345678
+    }
+  ]
+}
